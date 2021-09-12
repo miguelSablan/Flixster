@@ -23,7 +23,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginStart="5dp"
         android:layout_toEndOf="@+id/ivPoster"
-        android:textColor="@color/white"
+        android:textColor="@color/light_blue"
         android:textSize="24sp"
         tools:text="The Suicide Squad" />
 
